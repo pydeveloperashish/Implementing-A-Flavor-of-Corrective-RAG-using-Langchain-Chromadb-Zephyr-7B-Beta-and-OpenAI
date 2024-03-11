@@ -1,0 +1,10 @@
+transformers 
+accelerate 
+bitsandbytes 
+langchain 
+sentence-transformers 
+chromadb 
+openpyxl 
+ragatouille 
+langchain_openai
+datasets
